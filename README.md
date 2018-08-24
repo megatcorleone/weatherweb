@@ -1,1 +1,1 @@
-# web appp + console weather app
+# web + console weather app
