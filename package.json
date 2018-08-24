@@ -11,5 +11,8 @@
     "url": "git+https://github.com/megatcorleone/weatherweb.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
