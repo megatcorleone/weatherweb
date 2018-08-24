@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/megatcorleone/weatherweb.git"
   },
-  "author": "",
+  "author": "megatcorleone",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
